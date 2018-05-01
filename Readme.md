@@ -1,4 +1,4 @@
-# jwt-NodeJS
+# order-management-backend-api
 A simple jwt based mock authentication in nodeJs as well order management.
 [Demo](https://node-jwtauth.herokuapp.com/)
 
