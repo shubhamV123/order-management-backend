@@ -1,5 +1,5 @@
 if (process.env.NODE_ENV === 'production'){
-    let url = 'mongodb://root:root@ds111410.mlab.com:11410/orders';
+    let url = 'Your url';
     module.exports = {url};
 
 }
