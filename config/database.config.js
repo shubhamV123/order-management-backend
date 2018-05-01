@@ -1,9 +1,9 @@
 if (process.env.NODE_ENV === 'production'){
-    let url = 'Your url';
+    let url = 'your url';
     module.exports = {url};
 
 }
 else{
-  let url=  'mongodb://localhost:27017/airbono';
+  let url=  'mongodb://localhost:27017/order-management';
   module.exports = {url};
 }
